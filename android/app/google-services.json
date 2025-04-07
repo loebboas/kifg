@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745059065733",
+    "project_id": "kifg-legal",
+    "storage_bucket": "kifg-legal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745059065733:android:3d9e84bfd80ba87ffb6eec",
+        "android_client_info": {
+          "package_name": "com.example.kifg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACR-NRSV0k8B3Br-pZhxFdTDTrMYd5Oyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
