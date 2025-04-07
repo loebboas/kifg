@@ -1,16 +1,18 @@
 # kifg
 
-A new Flutter project.
+KI Fallgenerator für das Erstellen von juristischen Fällen und Beispielen. Richtet sich an Dozenten und Studierende.
 
-## Getting Started
+Für Dozenten:
+ - Erstelle automatisiert mit KI Fälle zu bestimmten Themen.
+ - Wähle die relevanten Artikel (aktuell nur StGB) aus und gebe Sie als Kontext hinzu.
+ - Füge weiteren Kontext und die Fragestellung hinzu.
+ - Überprüfe die KI generierten Fälle und Musterlösungen, sowie was bei der Bewertung wichtig ist.
+ - Verwalte die Fälle und Themengebiete
+ - Sehe Anfragen von Studierenden, die mit der Bewertung der KI nicht einverstanden sind und beantworte sie direkt.
+ - Veröffentliche die Diskussionen mit studierenden, wo das Sinnvoll erscheint.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Für Studierende:
+ - Springe in den Quizmodus und wähle das Thema das du vertiefen möchtest.
+ - Beantworte die Fragen an konkreten Fällen und erhalte direkt Feedback der KI.
+ - Starte eine Diskussion mit den Dozierenden, falls du weitere Fragen hast oder die KI Bewertung nicht verstehst.
+ - Schaue Diskussionen und diskutiere mit.
